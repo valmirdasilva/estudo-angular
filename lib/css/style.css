@@ -1,0 +1,24 @@
+body{
+    background-color: grey;
+}
+
+td{
+    text-align: left;
+}
+.jumbotron{
+    text-align: center;
+    width: 600px;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table{
+    margin-top: 20px;
+}
+.form-control{
+    margin-bottom: 5px;
+}
+.selecionado{
+    background-color: yellow;
+}
